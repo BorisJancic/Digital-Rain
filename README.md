@@ -1,6 +1,6 @@
 ### Compile Instructions
 ```clang main.c -lncurses```  
-or if using curses, change the header to curses.h and  
+or if using curses, change the header curses.h and  
 ```clang main.c -lcurses```  
 
 ### Python Instructions
